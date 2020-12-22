@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{{grafika/}}
+\begin{document}
+{\Huge Obrazki }
+\vspace{16pt}
+\begin{figure}[h]
+\caption{Kwiat Lotos}
+\includegraphics[scale=0.2]{grafika/bzy.jpg}
+\label{fig:ryc1}
+\end{figure}
+
+
+
+\end{document}
